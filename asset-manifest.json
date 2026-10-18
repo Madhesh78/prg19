@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prg19/static/css/main.dfa73041.css",
+    "main.js": "/prg19/static/js/main.3c7a4cc6.js",
+    "index.html": "/prg19/index.html",
+    "main.dfa73041.css.map": "/prg19/static/css/main.dfa73041.css.map",
+    "main.3c7a4cc6.js.map": "/prg19/static/js/main.3c7a4cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa73041.css",
+    "static/js/main.3c7a4cc6.js"
+  ]
+}
