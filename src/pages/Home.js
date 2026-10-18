@@ -6,10 +6,10 @@ function Home() {
       <h1>Home</h1>
 
       <img
-        src={`${process.env.PUBLIC_URL}/image.jpg`}
-        alt="Student profile"
-        className="student-photo"
-      />
+  src={`${process.env.PUBLIC_URL}/image.jpg`}
+  alt="My Image"
+  width="300"
+/>
 
       <h2>Madhesh K</h2>
 
